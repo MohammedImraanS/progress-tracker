@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/progress-tracker/static/css/main.9d4ab233.css",
+    "main.js": "/progress-tracker/static/js/main.ea0b8a5c.js",
+    "static/js/453.7129fac8.chunk.js": "/progress-tracker/static/js/453.7129fac8.chunk.js",
+    "index.html": "/progress-tracker/index.html",
+    "main.9d4ab233.css.map": "/progress-tracker/static/css/main.9d4ab233.css.map",
+    "main.ea0b8a5c.js.map": "/progress-tracker/static/js/main.ea0b8a5c.js.map",
+    "453.7129fac8.chunk.js.map": "/progress-tracker/static/js/453.7129fac8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d4ab233.css",
+    "static/js/main.ea0b8a5c.js"
+  ]
+}

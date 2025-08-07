@@ -1,6 +1,6 @@
 Progress-Tracker
 
-It is a clean and minimal progress management app built using React. It allows users to add, manage and coplete tasks while tracking their progress effectively.
+It is a clean and minimal progress management app built using React. It allows users to add, manage and complete tasks while tracking their progress effectively.
 
 Features
 
